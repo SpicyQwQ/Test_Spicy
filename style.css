@@ -1,0 +1,27 @@
+
+body {
+    font-size: 24px;
+}
+p {
+    font-size: 24px;
+    color: purple;
+}
+
+body {
+    font-size: 22px;
+}
+
+h1 {
+    color: blue;
+}
+.gray {
+    color: gray;
+}
+
+#second {
+    font-style: italic;
+}
+
+#third {
+    font-style: normal;
+}
